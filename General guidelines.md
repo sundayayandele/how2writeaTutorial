@@ -10,6 +10,8 @@ A good guide should:
 - be divided in short steps. Each step is practical and results in user-visible progress.
 - be entertaining! Try to have a fun project to work on, even if it’s something impractical!
 
+
+### Tone
 The tone of your guide should be friendly. Try to make the reader feel that they’re building and learning something together with you.
 
 All guides should have the same tone, regardless of the topic. This is why you should complete one or two of the existing guides before writing your first one.
